@@ -1,0 +1,19 @@
+<html>
+
+	<head>
+		<title>Top 10</title>
+	</head>
+	<body>
+		<h1 id="top">Dental Schools</h1>
+        <h2>Requirements</h2>
+ <p > Two semesters (three quarters) of biology with lab <br>   
+Two semesters (three quarters) of general chemistry with lab <br>  
+Two semesters (three quarters) of organic chemistry with lab  <br>   
+Two semesters (three quarters) of physics with lab.  
+
+ <br> 
+</p>
+
+    </body>
+    
+</html>
